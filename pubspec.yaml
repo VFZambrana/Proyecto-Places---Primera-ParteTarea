@@ -79,3 +79,6 @@ fonts:
   - family: Lato
     fonts:
       - asset: assets/font/Lato-Regular.ttf
+
+assests:
+  - assets/image/img1.jpg
